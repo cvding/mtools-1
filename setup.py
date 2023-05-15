@@ -17,7 +17,7 @@ setup(name='mtools',  # 包名
       author_email='zhifeng.ding@hqu.edu.cn',
       url='https://github.com/cvding/mtools.git',
       license='',
-      install_requires=['torch', 'onnxruntim', 'torchinfo'],
+      install_requires=['torch', 'onnxruntime', 'torchinfo'],
       dependency_links=[
           'https://pypi.tuna.tsinghua.edu.cn/simple'
       ],
