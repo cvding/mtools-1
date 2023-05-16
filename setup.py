@@ -38,5 +38,5 @@ setup(name='mtools',  # 包名
       packages=find_packages(where='src', exclude='', include=('*')),  # 必填
       package_dir={'': 'src'},  # 必填
       include_package_data=True,
-      scripts=[''],
+      scripts=[],
       )
